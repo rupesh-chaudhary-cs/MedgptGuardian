@@ -31,3 +31,7 @@ Thumbs.db
 backend/kg4.csv
 kg4.csv
 .kg4.csv
+
+/backend/kg4.csv
+/backend/app/kg4.csv
+/backend/kg4.csv
