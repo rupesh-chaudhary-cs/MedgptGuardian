@@ -29,3 +29,5 @@ coverage/
 .DS_Store
 Thumbs.db
 backend/kg4.csv
+kg4.csv
+.kg4.csv
