@@ -1,0 +1,5 @@
+Clinical Protocol: Penicillin Cross-Reactivity Guidelines 2024
+Patients with severe penicillin allergies should strictly avoid Amoxicillin due to high cross-reactivity. Alternative treatments include Macrolides (e.g., Azithromycin) or Doxycycline.
+
+Standard Care Guidelines for Viral Infections
+Standard care for viral sinus infections includes rest, hydration, and over-the-counter paracetamol. Antibiotics are not recommended unless bacterial infection is confirmed.
